@@ -8,6 +8,6 @@ Need FailedShack or someone to make the code better(?)
 
 
 # Thanks to
-FailedShack for code helping
+FailedShack for code helping and his idea
 
 OldManOZ for helping everything
